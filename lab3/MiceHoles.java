@@ -3,6 +3,7 @@ package zadaca3;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 public class MiceHoles {
 
     //TODO: implement function
