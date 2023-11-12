@@ -2,6 +2,7 @@ package labs.lab1;
 
 import java.util.Scanner;
 
+
 public class ReverseWord {
 
     public static void printReversed(String word) {
