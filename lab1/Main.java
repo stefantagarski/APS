@@ -2,6 +2,7 @@ package labs.lab1;
 
 import java.util.Scanner;
 
+
 class QuarterlySales {
     private int numOfSales;
     private int[] revenues;
