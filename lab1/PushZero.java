@@ -2,6 +2,7 @@ package labs.lab1;
 
 import java.util.Scanner;
 
+
 public class PushZero {
     static void pushZerosToBeginning(int[] arr, int n) {
        int count = 0;
