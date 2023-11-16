@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 public class ZigZagSequence {
 
     static int najdiNajdolgaCikCak(int[] a) {
-        if (a.length < 1) {
+        if (a.length == 1) {
             return 0;
         }
         int counter = 1;
