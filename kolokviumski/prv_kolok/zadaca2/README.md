@@ -11,7 +11,6 @@ the number of elements with that value is odd, an element with the same value sh
 **Examples**:
 
 _Input_: 
-
 6 </br>
 1 2 5 7 9 12 </br>
 7
