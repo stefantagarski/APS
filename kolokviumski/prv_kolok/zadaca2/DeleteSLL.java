@@ -190,14 +190,14 @@ public class DeleteSLL {
 
         if (count % 2 != 0) {
             current = list.getFirst();
-            SLLNode<Integer> prev = null;
+            
 
             while (current != null) {
                 if (current.element.equals(br)) {
                     list.insertBefore(br, current);
                     break;
                 }
-                prev = current;
+               
                 current = current.succ;
             }
         }
