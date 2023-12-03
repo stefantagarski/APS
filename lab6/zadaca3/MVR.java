@@ -1,3 +1,5 @@
+
+//PARTIALLY CORRECT
 package zadaca3;
 
 import java.util.*;
