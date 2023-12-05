@@ -147,7 +147,7 @@ public class Preveduvac {
             //after cat machka
         }
 
-        while (true){
+        for(; ;){
             String line = scanner.nextLine();
             if (line.equals("KRAJ")) {
                 break;
