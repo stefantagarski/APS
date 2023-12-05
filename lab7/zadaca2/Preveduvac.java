@@ -135,7 +135,7 @@ public class Preveduvac {
     public static void main (String[] args){
 
        Scanner scanner = new Scanner(System.in);
-        OBHT<String, String> map = new OBHT<>(128);
+        OBHT<String, String> map = new OBHT<>(200);
 
         int n = Integer.parseInt(scanner.nextLine());
 
