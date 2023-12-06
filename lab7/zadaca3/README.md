@@ -2,4 +2,5 @@ You should simulate routing by using a hash table. Every router is one bucket in
 
 The number of the routers is given in the first input line. In the next lines for each router the IP address of the interface and IP addresses of the networks to which it has static routes are given. Then the number of routing attempts are entered. In the next lines for each attempt an input interface and device IP address are given. The router should answer if it knows the address or not.
 
+
 Class Name: RoutingHashJava
