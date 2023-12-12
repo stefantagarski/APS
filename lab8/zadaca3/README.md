@@ -1,0 +1,1 @@
+You are given a binary tree and a node value in the tree. Print the sum of the elements of the node's left subtree that are lower than the given node value and the sum of the elements of the node's right subtree that are greater than the given node value.
