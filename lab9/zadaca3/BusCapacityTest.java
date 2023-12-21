@@ -35,7 +35,7 @@ public class BusCapacityTest {
             rides.add(new BusRides(exitTime, -1));
         }
 
-        rides.sort(Comparator.comparing(event -> event.time));
+        rides.sort(Comparator.comparing(ride -> ride.time));
 
         int currentPassengers = 0;
 
