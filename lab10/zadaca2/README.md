@@ -2,21 +2,4 @@ It is given a perfect maze (in the same form as presented on the aud. exercises 
 
 Print the path as follows: print the coordinates of the unfolded vertices (i.e. print the positions from the input).
 
-Input	
-6,6
-(######)
-#S# E#
-# # ##
-#   ##
-######
-######
 
-Result
-1,1
-2,1
-3,1
-3,2
-3,3
-2,3
-1,3
-1,4
