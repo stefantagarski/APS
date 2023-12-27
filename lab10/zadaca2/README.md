@@ -4,7 +4,7 @@ Print the path as follows: print the coordinates of the unfolded vertices (i.e. 
 
 Input	
 6,6
-######
+(######)
 #S# E#
 # # ##
 #   ##
