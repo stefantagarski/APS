@@ -1,1 +1,1 @@
-**Solved exam tasks (Linked List problems)**
+**Solved exam tasks (Linked List and Hash problems)**
